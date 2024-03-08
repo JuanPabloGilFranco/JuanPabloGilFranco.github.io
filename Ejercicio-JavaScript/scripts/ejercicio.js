@@ -9,8 +9,8 @@ function cambiarColor(){
 }
 
 function cambiarTamano(){
-    var x = document.getElementsByClassName("imagen")
-    x[0].style.height =  "300px"
-    x[0].style.width = "auto"
+    var tamano = document.getElementsByClassName("imagen")
+    tamano[0].style.height =  "300px"
+    tamano[0].style.width = "auto"
 
 }
